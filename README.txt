@@ -51,7 +51,7 @@ The project needs some extra files to run. These are called dependencies and mus
     Go back to the main studentChatApp folder, then enter the backend folder and run the install command:
 
     cd ../backend
-    npm install
+    npm install --legacy-peer-deps
 
 4. Running the Application
 
