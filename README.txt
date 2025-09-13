@@ -11,60 +11,78 @@ Before you begin, ensure the following software is installed on your computer:
 
 1. Cloning the Repository
 
-The first step is to download the project source code from GitHub to your local machine.
+The first step is to download the project source code from GitHub to your local computer.
 
     Open your terminal or command prompt.
 
-    Navigate to the directory where you want to store the project. For example:
+    Navigate to the folder where you want to store the project. For example:
 
     cd C:\Users\YourName\Documents\Projects
 
-    Execute the following command to clone the repository:
+    Run the following command to download the project:
 
     git clone [https://github.com/klicq/studentChatApp.git](https://github.com/klicq/studentChatApp.git)
 
-2. Installing Dependencies
+2. API Key and Environment Variables
 
-The project's dependencies were not uploaded to GitHub. They must be installed locally to run the application.
+The project requires an API key to work correctly. This key is a secret and is not included in the project files.
 
-    Navigate into the studentChatApp directory:
+    Get your Gemini API key from the Google AI Studio website.
+
+    In the backend folder of the project, create a new file named .env.
+
+    Inside this new file, copy and paste the following line, and replace YOUR_API_KEY_HERE with the key you just got:
+
+    GEMINI_API_KEY=YOUR_API_KEY_HERE
+
+3. Installing Dependencies
+
+The project needs some extra files to run. These are called dependencies and must be installed.
+
+    Navigate into the studentChatApp folder you just cloned.
 
     cd studentChatApp
 
-    Install the front-end dependencies:
+    Go into the frontend folder and run the install command:
 
     cd frontend
     npm install
 
-    Navigate to the back-end directory and install its dependencies:
+    Go back to the main studentChatApp folder, then enter the backend folder and run the install command:
 
     cd ../backend
     npm install
 
-3. Running the Application
+4. Running the Application
 
-Once all dependencies are installed, you can start the application.
+Now that everything is installed, you can start the application.
 
-    Start the back-end server from the backend directory:
+    Start the backend server by running the following command from the backend folder:
 
     npm start
 
-    Open the index.html file located in the frontend directory in your preferred web browser to access the application.
+    Open the index.html file located inside the frontend folder in your web browser.
 
-4. Managing Changes with Git
+5. Saving Your Changes with Git
 
 As you work on the project, you will need to save your progress and upload it to GitHub.
 
-    Navigate to the root directory of your project (studentChatApp).
+    Navigate to the main studentChatApp folder.
 
-    To see which files have been modified, use the git status command.
+    To see which files have been changed, use:
 
-    To stage all changes for a commit, use git add ..
+    git status
 
-    To create a commit with a descriptive message, use:
+    To get your changed files ready for saving, use:
 
-    git commit -m "A brief description of the changes"
+    git add .
 
-    To upload your changes to GitHub, use git push.
+    To save the changes with a short note, use:
 
-It is a best practice to add, commit, and push your changes frequently to save your work and keep your GitHub repository up to date.
+    git commit -m "A short note about what you changed"
+
+    To upload your changes to GitHub, use:
+
+    git push
+
+Remember to add, commit, and push often to keep your work safe and up-to-date on GitHub.
