@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What is the last date to apply for B.Tech?",
+    "answer": "The final date for B.Tech applications is usually June 30th. Please check the official admissions portal for any updates.",
+    "department": "Admissions"
+  },
+  {
+    "question": "how to apply for inter program for getting laptop info?",
+    "answer": "you need to talk to jatin fir for that.",
+    "department": "Admissions"
+  },
+  {
+    "question": "How do I check my admission status?",
+    "answer": "You can check your admission status by logging into your account on the university's official admission portal using your application number and password.",
+    "department": "Admissions"
+  },
+  {
+    "question": "Where is the Registrar's Office located?",
+    "answer": "The Registrar's Office is located on the first floor of the Main Administrative Building, Room 101.",
+    "department": "Administration"
+  },
+  {
+    "question": "How do I get a new student ID card?",
+    "answer": "To get a new student ID card, you need to fill out a 'Lost/Damaged ID Card' form available at the Student Services office and pay a replacement fee of ₹200.",
+    "department": "Administration"
+  },
+  {
+    "question": "What are the hostel fees for the academic year?",
+    "answer": "Hostel fees are ₹1,20,000 per year, which includes accommodation and mess charges. This is subject to change, so please verify with the Hostel Department.",
+    "department": "Hostel"
+  },
+  {
+    "question": "Is Wi-Fi available in the hostel?",
+    "answer": "Yes, high-speed Wi-Fi is available in all hostel buildings, mess halls, and common areas.",
+    "department": "Hostel"
+  },
+  {
+    "question": "How do I report a maintenance issue in my room?",
+    "answer": "You can report a maintenance issue by filling out a complaint form at the Hostel Warden's office or by using the online maintenance portal.",
+    "department": "Hostel"
+  },
+  {
+    "question": "When will the results for the end-of-semester exams be released?",
+    "answer": "Results are typically announced within 4-6 weeks after the last day of the exams. Keep an eye on the official notice board and university website.",
+    "department": "Examination"
+  },
+  {
+    "question": "How can I apply for a re-evaluation of my exam paper?",
+    "answer": "You can apply for re-evaluation by filling out a form at the Examination Department and paying the specified fee within 10 days of the result declaration.",
+    "department": "Examination"
+  },
+  {
+    "question": "What is the procedure to get a copy of my mark sheet?",
+    "answer": "To get a duplicate mark sheet, you must submit a written request to the Examination Department along with a copy of your original marks and a payment receipt for the service fee.",
+    "department": "Examination"
+  },
+  {
+    "question": "What is the last date to pay the semester fees?",
+    "answer": "The deadline for fee payment for the current semester is August 15th. A late fee will be applied for payments made after this date.",
+    "department": "Fees"
+  },
+  {
+    "question": "What are the available payment methods for fees?",
+    "answer": "You can pay fees online via credit/debit card, net banking, or UPI. Offline payments are accepted through a bank challan at designated bank branches.",
+    "department": "Fees"
+  },
+  {
+    "question": "How do I apply for a scholarship?",
+    "answer": "Information on available scholarships and the application process is available on the Financial Aid Office's website. You need to fill out an application form and submit it with all required documents.",
+    "department": "Financial Aid"
+  },
+  {
+    "question": "Where is the library located and what are its hours?",
+    "answer": "The Central Library is located next to the main academic block. Its hours are from 9:00 AM to 8:00 PM on weekdays and 10:00 AM to 5:00 PM on Saturdays.",
+    "department": "Library"
+  },
+  {
+    "question": "How do I find my academic advisor?",
+    "answer": "Your academic advisor is typically assigned to you at the beginning of your first year. You can find their name and contact details on your student profile on the university's internal portal.",
+    "department": "Academic"
+  },
+  {
+    "question": "Can I get a copy of the campus map?",
+    "answer": "Yes, a digital copy of the campus map is available on the university's official website. You can also get a physical copy from the Student Services office.",
+    "department": "General Services"
+  },
+  {
+    "question": "What is the process to transfer to another department?",
+    "answer": "Transferring to another department requires a formal application to the Registrar's office, a meeting with both the current and new department heads, and approval from the Dean of Academics.",
+    "department": "Administration"
+  },
+  {
+    "question": "How do I get a leave of absence?",
+    "answer": "You must submit a written request for a leave of absence to your Department Head with a valid reason and supporting documents. The application will then be reviewed by the academic council.",
+    "department": "Academic"
+  },
+  {
+    "question": "Is there a student counseling service on campus?",
+    "answer": "Yes, the university provides free and confidential counseling services. You can book an appointment with a counselor through the Student Wellness Center portal.",
+    "department": "General Services"
+  },
+  {
+    "question": "What are the core subjects for the second year of Computer Science?",
+    "answer": "The core subjects for the second year include Data Structures and Algorithms, Database Management Systems, Computer Networks, and Operating Systems.",
+    "department": "Academic"
+  },
+  {
+    "question": "What is the procedure for a mess fee refund if I leave the hostel early?",
+    "answer": "To get a refund of your mess fees, you must inform the Hostel Warden at least two weeks in advance. The refund will be processed based on the number of days remaining in the semester.",
+    "department": "Hostel"
+  },
+  {
+    "question": "How do I report a lost and found item?",
+    "answer": "Lost and found items should be reported to the Security Office, located at the main campus entrance. You can also check their office to see if your lost item has been turned in.",
+    "department": "General Services"
+  },
+  {
+    "question": "What are the rules regarding visitors in the hostel?",
+    "answer": "Visitors are allowed in the common areas during specified hours (e.g., 9 AM to 7 PM). Overnight guests are generally not permitted without special permission from the warden.",
+    "department": "Hostel"
+  },
+  {
+    "question": "Is there a campus medical clinic?",
+    "answer": "Yes, a medical clinic with a full-time doctor and nurse is available on campus. It operates from 9 AM to 5 PM on weekdays for student consultations.",
+    "department": "General Services"
+  }
+]

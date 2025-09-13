@@ -1,0 +1,213 @@
+[
+  {
+    "title": "Course Registration Process",
+    "description": "Complete procedure for registering courses each semester at MIT ADT University.",
+    "steps": [
+      "Login to student portal using your credentials",
+      "Navigate to Course Registration section",
+      "Check academic calendar for registration dates",
+      "Review prerequisite requirements for desired courses",
+      "Browse available courses by department and semester",
+      "Add desired courses to your cart",
+      "Verify credit hours and schedule conflicts",
+      "Submit registration request",
+      "Pay applicable course fees online",
+      "Download and save registration confirmation",
+      "Check confirmation email for course details"
+    ]
+  },
+  {
+    "title": "Graduation Application Process",
+    "description": "Step-by-step procedure for applying for graduation from MIT ADT University.",
+    "steps": [
+      "Meet with your academic advisor to review degree requirements",
+      "Ensure all required courses and credits are completed",
+      "Clear all pending fees and library dues",
+      "Login to student portal and access graduation section",
+      "Fill out graduation application form completely",
+      "Upload required documents (photos, affidavits)",
+      "Pay graduation processing fee online",
+      "Submit application before the deadline",
+      "Attend mandatory graduation orientation session",
+      "Collect graduation kit and ceremony details",
+      "Confirm attendance for convocation ceremony"
+    ]
+  },
+  {
+    "title": "Financial Aid Application",
+    "description": "Process for applying for scholarships and financial assistance at MIT ADT.",
+    "steps": [
+      "Visit Financial Aid Office or access online portal",
+      "Review available scholarship categories and eligibility",
+      "Gather required documents (income certificates, academic records)",
+      "Complete scholarship application form accurately",
+      "Submit family income and asset declarations",
+      "Provide bank statements and tax documents",
+      "Attach academic transcripts and merit certificates",
+      "Submit application before stated deadline",
+      "Attend interview if shortlisted",
+      "Check application status regularly online",
+      "Accept scholarship offer and complete documentation"
+    ]
+  },
+  {
+    "title": "Official Transcript Request",
+    "description": "How to request official academic transcripts from MIT ADT University.",
+    "steps": [
+      "Login to student portal with valid credentials",
+      "Navigate to transcript services section",
+      "Select type of transcript needed (official/unofficial)",
+      "Choose delivery method (digital/physical)",
+      "Enter recipient details and mailing address",
+      "Verify all academic records are current",
+      "Pay transcript processing fee (₹200 per copy)",
+      "Submit transcript request form",
+      "Receive confirmation email with tracking details",
+      "Wait for processing (3-5 working days for digital)",
+      "Download digital transcript or collect physical copy"
+    ]
+  },
+  {
+    "title": "Major Change Process",
+    "description": "Procedure for changing academic major or specialization at MIT ADT.",
+    "steps": [
+      "Schedule meeting with current academic advisor",
+      "Discuss reasons and implications of major change",
+      "Research requirements for desired new major",
+      "Meet with faculty advisor from target department",
+      "Evaluate transferable credits and additional requirements",
+      "Complete major change application form",
+      "Obtain signatures from both department advisors",
+      "Submit form to Registrar's Office with supporting documents",
+      "Pay any applicable processing fees",
+      "Wait for approval from academic committee",
+      "Update course schedule based on new major requirements",
+      "Receive updated degree audit and academic plan"
+    ]
+  },
+  {
+    "title": "Student ID Card Replacement",
+    "description": "Process for replacing lost, stolen, or damaged student ID cards.",
+    "steps": [
+      "Report lost/stolen ID immediately to Campus Security",
+      "Visit Student Services Office during business hours",
+      "Bring valid photo identification (Aadhar, passport, etc.)",
+      "Complete ID card replacement application form",
+      "Provide details of lost/damaged card circumstances",
+      "Pay replacement fee (₹500) through online or cash",
+      "Take new digital photograph if required",
+      "Submit biometric data (fingerprint/signature)",
+      "Receive temporary ID card for immediate use",
+      "Collect permanent ID card within 3 working days",
+      "Activate new card for access control systems"
+    ]
+  },
+  {
+    "title": "Parking Permit Application",
+    "description": "How to obtain campus parking permits for vehicles at MIT ADT.",
+    "steps": [
+      "Login to student portal and access parking services",
+      "Select appropriate permit type (semester/annual)",
+      "Choose vehicle type (two-wheeler/four-wheeler)",
+      "Enter complete vehicle registration details",
+      "Upload vehicle registration certificate copy",
+      "Provide driving license details and copy",
+      "Submit insurance certificate (mandatory)",
+      "Pay permit fee online (₹3000-₹5000 depending on vehicle)",
+      "Print temporary parking permit immediately",
+      "Visit Campus Security to verify documents",
+      "Receive permanent parking sticker by mail",
+      "Display permit prominently on vehicle"
+    ]
+  },
+  {
+    "title": "Library Resource Access",
+    "description": "Steps to access and utilize library resources and services effectively.",
+    "steps": [
+      "Obtain library card during student orientation",
+      "Complete library orientation and training session",
+      "Login to library portal with student credentials",
+      "Browse physical and digital resource catalogs",
+      "Request books through online reservation system",
+      "Access e-books and digital databases remotely",
+      "Use interlibrary loan services for unavailable materials",
+      "Book study rooms and group discussion areas",
+      "Attend research methodology workshops",
+      "Follow borrowing rules and return deadlines",
+      "Renew books online before due dates",
+      "Pay any overdue fines promptly"
+    ]
+  },
+  {
+    "title": "Hostel Accommodation Application",
+    "description": "Process for applying and securing hostel accommodation on campus.",
+    "steps": [
+      "Submit hostel application during admission process",
+      "Complete accommodation preference form (single/sharing)",
+      "Pay hostel security deposit and advance fees",
+      "Submit medical fitness certificate",
+      "Provide emergency contact information",
+      "Attend hostel orientation and receive room assignment",
+      "Check room condition and report any damages",
+      "Collect hostel identity card and access keys",
+      "Complete warden introduction and briefing",
+      "Understand hostel rules and regulations",
+      "Set up room with personal belongings",
+      "Register for mess facility and food preferences"
+    ]
+  },
+  {
+    "title": "Internship Application Process",
+    "description": "Complete procedure for applying and securing internship opportunities.",
+    "steps": [
+      "Attend mandatory internship orientation session",
+      "Register with Career Services for internship placement",
+      "Prepare professional resume and cover letter",
+      "Identify potential companies and internship roles",
+      "Apply through university placement portal",
+      "Prepare for company interviews and assessments",
+      "Complete pre-internship training and workshops",
+      "Receive internship placement confirmation",
+      "Complete necessary documentation and agreements",
+      "Coordinate with faculty mentor for guidance",
+      "Begin internship with regular progress reporting",
+      "Submit final internship report and evaluation"
+    ]
+  },
+  {
+    "title": "Research Project Registration",
+    "description": "Steps to register for research projects and thesis work.",
+    "steps": [
+      "Identify research area and potential faculty supervisor",
+      "Schedule meeting with prospective research mentor",
+      "Develop preliminary research proposal",
+      "Complete research ethics training if required",
+      "Submit research project registration form",
+      "Get approval from department research committee",
+      "Register for research credit hours",
+      "Establish regular meeting schedule with supervisor",
+      "Set up research methodology and timeline",
+      "Begin literature review and background research",
+      "Submit periodic progress reports",
+      "Prepare for final thesis presentation and defense"
+    ]
+  },
+  {
+    "title": "International Study Program Application",
+    "description": "Process for applying to international exchange and study abroad programs.",
+    "steps": [
+      "Check eligibility criteria (minimum CGPA 7.5)",
+      "Attend international programs information session",
+      "Choose destination university and program",
+      "Prepare required documents (transcripts, recommendations)",
+      "Take standardized tests (TOEFL/IELTS/GRE) if required",
+      "Complete application through International Office",
+      "Submit financial documentation and sponsorship details",
+      "Apply for student visa and passport",
+      "Attend pre-departure orientation sessions",
+      "Arrange accommodation and travel bookings",
+      "Complete health insurance and medical requirements",
+      "Departure and enrollment at partner university"
+    ]
+  }
+]

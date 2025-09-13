@@ -1,0 +1,92 @@
+[
+  {
+    "department": "Academic Affairs Office",
+    "contact": "academics@mituniversity.edu.in | +91-20-2760-1000",
+    "info": "Oversees all academic programs, curriculum development, examination policies, and student academic progress across all faculties."
+  },
+  {
+    "department": "Admissions Office",
+    "contact": "admissions@mituniversity.edu.in | +91-20-2760-1001",
+    "info": "Handles undergraduate and postgraduate admissions, entrance exam coordination, and application processing for all programs."
+  },
+  {
+    "department": "Registrar's Office",
+    "contact": "registrar@mituniversity.edu.in | +91-20-2760-1002",
+    "info": "Maintains student records, issues transcripts and certificates, handles course registration, and manages academic documentation."
+  },
+  {
+    "department": "Financial Aid & Scholarships",
+    "contact": "finaid@mituniversity.edu.in | +91-20-2760-1003",
+    "info": "Provides financial assistance through scholarships, fee waivers, education loans, and merit-based awards for deserving students."
+  },
+  {
+    "department": "Student Services",
+    "contact": "studentservices@mituniversity.edu.in | +91-20-2760-1004",
+    "info": "Offers comprehensive student support including counseling, disability services, hostel accommodation, and student life activities."
+  },
+  {
+    "department": "Career Services & Placements",
+    "contact": "placements@mituniversity.edu.in | +91-20-2760-1005",
+    "info": "Facilitates job placements, internships, industry partnerships, career counseling, and professional development programs."
+  },
+  {
+    "department": "International Office",
+    "contact": "international@mituniversity.edu.in | +91-20-2760-1006",
+    "info": "Manages study abroad programs, international student services, university partnerships, and global academic collaborations."
+  },
+  {
+    "department": "Research & Development",
+    "contact": "research@mituniversity.edu.in | +91-20-2760-1007",
+    "info": "Promotes research activities, manages funded projects, facilitates faculty-student research collaboration, and innovation initiatives."
+  },
+  {
+    "department": "Library Services",
+    "contact": "library@mituniversity.edu.in | +91-20-2760-1008",
+    "info": "Provides comprehensive library resources, digital databases, study spaces, research support, and information literacy programs."
+  },
+  {
+    "department": "IT Support Services",
+    "contact": "itsupport@mituniversity.edu.in | +91-20-2760-1009",
+    "info": "Maintains campus IT infrastructure, student portals, Wi-Fi services, computer labs, and provides technical support to users."
+  },
+  {
+    "department": "Campus Safety & Security",
+    "contact": "security@mituniversity.edu.in | +91-20-2760-1010",
+    "info": "Ensures campus safety, manages parking services, emergency response, visitor management, and security protocols."
+  },
+  {
+    "department": "Sports & Recreation",
+    "contact": "sports@mituniversity.edu.in | +91-20-2760-1011",
+    "info": "Manages sports facilities, organizes tournaments, fitness programs, recreational activities, and promotes student wellness."
+  },
+  {
+    "department": "Medical Center",
+    "contact": "medical@mituniversity.edu.in | +91-20-2760-1012",
+    "info": "Provides healthcare services, emergency medical care, health checkups, and maintains student health records."
+  },
+  {
+    "department": "Accounts & Finance",
+    "contact": "accounts@mituniversity.edu.in | +91-20-2760-1013",
+    "info": "Handles fee collection, financial planning, budget management, salary processing, and all financial transactions."
+  },
+  {
+    "department": "Student Activities Office",
+    "contact": "activities@mituniversity.edu.in | +91-20-2760-1014",
+    "info": "Coordinates student clubs, cultural events, festivals, competitions, and extracurricular activities across campus."
+  },
+  {
+    "department": "Alumni Relations",
+    "contact": "alumni@mituniversity.edu.in | +91-20-2760-1015",
+    "info": "Maintains alumni network, organizes reunions, facilitates alumni mentorship programs, and manages alumni contributions."
+  },
+  {
+    "department": "Facilities Management",
+    "contact": "facilities@mituniversity.edu.in | +91-20-2760-1016",
+    "info": "Maintains campus infrastructure, hostel facilities, classroom management, utilities, and campus development projects."
+  },
+  {
+    "department": "Anti-Ragging Committee",
+    "contact": "antiragging@mituniversity.edu.in | +91-20-2760-1017",
+    "info": "Prevents ragging incidents, investigates complaints, implements anti-ragging policies, and ensures student safety and dignity."
+  }
+]
